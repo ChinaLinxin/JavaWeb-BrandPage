@@ -1,0 +1,11 @@
+com\linxin\mapper\BrandMapper.class
+com\linxin\pojo\Brand.class
+com\linxin\web\servlet\old\AddServlet.class
+com\linxin\web\servlet\BaseServlet.class
+com\linxin\pojo\PageBean.class
+com\linxin\service\impl\BrandServiceImpl.class
+com\linxin\web\servlet\old\SelectAllServlet.class
+com\linxin\service\BrandService.class
+com\linxin\web\servlet\BrandServlet.class
+com\linxin\util\SqlSessionFactoryUtils.class
+com\linxin\web\servlet\UserServlet.class
